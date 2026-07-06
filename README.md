@@ -1,62 +1,116 @@
-👋 Hi, I'm Ali Rizvi
+# 👋 Hi, I'm Ali Rizvi
 
-💻 Data Structures & Algorithms in C++
-
-Welcome to my DSA repository! This repository documents my journey of learning Data Structures and Algorithms using C++. I regularly upload solutions as I learn and improve my problem-solving skills.
+<h3 align="center">💻 Data Structures & Algorithms in C++</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode">
-  <img src="https://img.shields.io/badge/Roadmap-Striver%20A2Z-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Course-Love%20Babbar-green?style=for-the-badge">
-</p>---
-
-🚀 About This Repository
-
-- 📚 Learning Data Structures & Algorithms
-- 💻 Programming Language: C++
-- 🧩 Solving coding problems consistently
-- 📈 Tracking my learning progress
-- 🌱 Continuously improving problem-solving skills
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roadmap-Striver%20A2Z-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Course-Love%20Babbar-32CD32?style=for-the-badge"/>
+</p>
 
 ---
 
-📂 Current Solutions
+## 🚀 About This Repository
 
-- ✅ Decimal to Binary
+This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using **C++**.
 
-«More solutions will be added regularly as I progress through my DSA journey.»
+My objectives are to:
 
----
-
-🎯 Goals
-
-- Complete the Striver A2Z DSA Sheet
-- Solve 250+ LeetCode problems
-- Build strong problem-solving skills
-- Create a consistent GitHub portfolio
-- Prepare for software engineering interviews
+- 📚 Build a strong foundation in DSA
+- 🧠 Improve problem-solving skills
+- 💻 Prepare for Software Engineering interviews
+- 🌍 Pursue M.Tech in Germany
+- 📈 Track my progress consistently
 
 ---
 
-📈 Progress
+## 📂 Repository Structure
 
-Category| Status
-Basics| ✅ In Progress
-Arrays| ⏳ Coming Soon
-Searching| ⏳ Coming Soon
-Strings| ⏳ Coming Soon
-Linked Lists| ⏳ Coming Soon
-Trees| ⏳ Coming Soon
-Graphs| ⏳ Coming Soon
-Dynamic Programming| ⏳ Coming Soon
+```
+DSA
+├── Basics
+├── Arrays
+├── Strings
+├── Searching
+├── Sorting
+├── Linked List
+├── Stack
+├── Queue
+├── Binary Tree
+├── BST
+├── Heap
+├── Graph
+├── Dynamic Programming
+└── Greedy
+```
 
 ---
 
-⭐ Quote
+## 📊 Learning Roadmap
 
-«"Small progress every day leads to big results."»
+```
+C++ Basics
+     │
+     ▼
+Arrays
+     │
+     ▼
+Strings
+     │
+     ▼
+Searching & Sorting
+     │
+     ▼
+Linked List
+     │
+     ▼
+Stack & Queue
+     │
+     ▼
+Trees & BST
+     │
+     ▼
+Heap
+     │
+     ▼
+Graphs
+     │
+     ▼
+Dynamic Programming
+```
 
 ---
 
-Thanks for visiting my repository! ⭐
+## 📈 Progress
+
+| Topic | Status |
+|-------|:------:|
+| C++ Basics | ✅ |
+| Decimal to Binary | ✅ |
+| Arrays | ⏳ |
+| Strings | ⏳ |
+| Linked List | ⏳ |
+| Trees | ⏳ |
+| Graphs | ⏳ |
+| Dynamic Programming | ⏳ |
+
+---
+
+## 🎯 Goals
+
+- ✅ Complete Striver A2Z Sheet
+- ✅ Solve 250+ LeetCode Problems
+- ✅ Participate in Coding Contests
+- ✅ Build a Strong GitHub Profile
+- ✅ Crack Software Engineering Interviews
+
+---
+
+## ⭐ Motto
+
+> **"Consistency compounds. One problem solved today becomes experience tomorrow."**
+
+---
+
+### Thanks for visiting my repository! ⭐
