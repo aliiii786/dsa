@@ -89,6 +89,7 @@ Dynamic Programming
 | C++ Basics | ✅ |
 | Decimal to Binary | ✅ |
 | Arrays | ⏳ |
+|Search |  ⏳ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
 | Trees | ⏳ |
