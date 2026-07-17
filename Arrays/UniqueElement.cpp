@@ -9,7 +9,7 @@ int UniqueNumber(int arr[],int size){
     return ans ;
 }
 int main() {
-    // Write C++ code here
+    
     int arr[]={2,2 ,3,4,4};
     int size = sizeof(arr)/sizeof(int);
     cout<<"Unique number in arrays is "<<UniqueNumber(arr,size);
